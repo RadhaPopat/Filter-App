@@ -15,7 +15,16 @@ Tech stack used:
      Streamlit — for a fast, interactive web interface.
      OpenCV — for image processing magic.
      NumPy — for efficient array operations.
-     
-| Original Image            | Cartoonify               | Pencil Sketch           | Sepia                  |
-| ------------------------- | ------------------------ | ----------------------- | ---------------------- |
-| ![](path/to/original.jpg | ![](path/to/Cartoonified_Image1.png) | ![](path/to/sketch.jpg) | ![](path/to/sepia.jpg) |
+
+⚙️ How it works
+     🎨 Cartoonify
+     Detects edges using adaptive thresholding.
+     Simplifies colors using K-means clustering.
+     Combines to create a cartoon-like effect.
+     ✏️ Pencil Sketch
+     Converts image to grayscale.
+     Inverts and blurs to mimic pencil shading.
+     🎞️ Sepia
+     Applies a sepia matrix transformation for a vintage look.
+
+⭐ If you find this project useful, don't forget to give it a star!
