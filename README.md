@@ -16,3 +16,6 @@ Tech stack used:
      OpenCV — for image processing magic.
      NumPy — for efficient array operations.
      
+| Original Image            | Cartoonify               | Pencil Sketch           | Sepia                  |
+| ------------------------- | ------------------------ | ----------------------- | ---------------------- |
+| ![](path/to/original.jpg | ![](path/to/Cartoonified_Image1.png) | ![](path/to/sketch.jpg) | ![](path/to/sepia.jpg) |
